@@ -2,9 +2,7 @@
 
 **少说废话，技术信息一字不少。**
 
-基于 [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 的简洁回答 Skill，小幅增加中文适配。独立维护，非官方。
-
-## 保留什么
+## 功能与流程
 
 结论优先、去掉寒暄与复述、代码和错误原样保留、否定词与步骤顺序完整，以及普通／极简／文言三种回答方式。原来的核心规则保留，仅调整技能名称和本地模式引用。
 
@@ -30,6 +28,8 @@ npx skills add batespaige357-tech/caveman-cn --skill caveman-cn
 
 已检查技能格式、UTF-8 和引用完整性；未完成真实助手行为盲测或 token 成本测量。没有示例网页、效果截图，也没有安装全局技能或运行前端编译。
 
-## 开源来源
+## 来源与许可
+
+基于 [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)，由本仓库维护。 本仓库不由 Julius Brussee 维护。
 
 沿用上游 Apache-2.0，保留 LICENSE、NOTICE、历史 MIT 许可说明与 LICENSING.md。修改范围、参考提交见 [CHANGES.md](CHANGES.md)。
